@@ -23,21 +23,23 @@ To get started with this project, follow these steps:
 <table style="border: 1px solid black;">
             <tr>
                 <td  style="border: 1px solid black ;">
-                    <img src="./public/img_1.png"   width="200">
+                    <img src="./public/img_1.png"   width="400">
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="./public/img_2.png"   width="200">
-                </td>
-                <td  style="border: 1px solid black ;">
-                    <img src="./public/img_3.png"   width="200">
+                    <img src="./public/img_2.png"   width="400">
                 </td>
             </tr>
             <tr>
                 <td  style="border: 1px solid black ;">
-                    <img src="./public/img_4.png"   width="200">
-                </td>
+                    <img src="./public/img_3.png"   width="400">
+                </td>   
                 <td  style="border: 1px solid black ;">
-                    <img src="./public/img_5.png"   width="200">
+                    <img src="./public/img_4.png"   width="400">
                 </td>
+            </tr>
+            <tr>
+                     <td  style="border: 1px solid black ;">
+                    <img src="./public/img_5.png"   width="400">
+                </td>   
             </tr>
         </table>
